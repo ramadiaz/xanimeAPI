@@ -5,14 +5,16 @@
             "title": "Chuunibyou demo Koi ga Shitai!",
             "score": 7.71,
             "release": "Fall 2012",
-            "image": "https://drive.google.com/uc?export=view&id=10gn6fILRy6TOi_GH7f1jZYI-7AknfNKi"
+            "image": "https://drive.google.com/uc?export=view&id=10gn6fILRy6TOi_GH7f1jZYI-7AknfNKi",
+            "logo": "https://drive.google.com/uc?export=view&id=/1Ua1PtxBZaJUowf24HXMCqqybBsDFf31h"
         },
         {
             "malID": 339,
             "title": "Serial Experiments Lain",
             "score": 8.09,
             "release": "Summer 1998",
-            "image": "https://drive.google.com/uc?export=view&id=1uP_om3d-7RvR7LIg_gdxF0IOxZ_R9Czu"
+            "image": "https://drive.google.com/uc?export=view&id=1uP_om3d-7RvR7LIg_gdxF0IOxZ_R9Czu",
+            "logo": "https://drive.google.com/uc?export=view&id=14wNzDnBwXG531eYIM5OhaI1SSGxt1mX-"
             
         },
         {
@@ -20,7 +22,8 @@
             "title": "Another",
             "score": 7.47,
             "release": "Winter 2012",
-            "image": "https://drive.google.com/uc?export=view&id=1YDwAycqLSCMZFgcReMxKXpsisO8eEJHC"
+            "image": "https://drive.google.com/uc?export=view&id=1YDwAycqLSCMZFgcReMxKXpsisO8eEJHC",
+            "logo": "https://drive.google.com/uc?export=view&id=1j6BoRtClANk9Q0KYb-mfoWM6wDm0bNPx"
         }
     ]
 }
