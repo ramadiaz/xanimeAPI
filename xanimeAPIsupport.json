@@ -1,25 +1,26 @@
 {
     "banner": [
         {
-            "malID": 11111,
-            "title": "Another",
-            "score": 7.47,
-            "release": "Winter 2012",
-            "image": "https://drive.google.com/uc?export=view&id=1XRrhpUv-0Wsmx5e6NsZGSrxdAq3GLEy2"
+            "malID": 14741,
+            "title": "Chuunibyou demo Koi ga Shitai!",
+            "score": 7.70,
+            "release": "Fall 2012",
+            "image": "https://drive.google.com/uc?export=view&id=10gn6fILRy6TOi_GH7f1jZYI-7AknfNKi"
         },
         {
             "malID": 339,
             "title": "Serial Experiments Lain",
             "score": 8.09,
             "release": "Summer 1998",
-            "image": "https://drive.google.com/uc?export=view&id=1JxDfHseBYavyDIxTfXGwgbMTp-B3sHZ_"
+            "image": "https://drive.google.com/uc?export=view&id=1uP_om3d-7RvR7LIg_gdxF0IOxZ_R9Czu"
+            
         },
         {
-            "malID": 52991,
-            "title": "Sousou no Frieren",
-            "score": 9.14,
-            "release": "Fall 20233",
-            "image": "https://drive.google.com/uc?export=view&id=1H4MNFRDqJvtDmqc0b6S8uMqrhaC7pEiB"
+            "malID": 11111,
+            "title": "Another",
+            "score": 7.47,
+            "release": "Winter 2012",
+            "image": "https://drive.google.com/uc?export=view&id=1YDwAycqLSCMZFgcReMxKXpsisO8eEJHC"
         }
     ]
 }
