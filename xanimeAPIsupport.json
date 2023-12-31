@@ -1,0 +1,19 @@
+{
+    "banner": [
+        {
+            "malID": 11111,
+            "title": "Another",
+            "image": "https://drive.google.com/uc?export=view&id=1XRrhpUv-0Wsmx5e6NsZGSrxdAq3GLEy2"
+        },
+        {
+            "malID": 339,
+            "title": "Serial Experiments Lain",
+            "image": "https://drive.google.com/uc?export=view&id=1JxDfHseBYavyDIxTfXGwgbMTp-B3sHZ_"
+        },
+        {
+            "malID": 52991,
+            "title": "Sousou no Frieren",
+            "image": "https://drive.google.com/uc?export=view&id=1H4MNFRDqJvtDmqc0b6S8uMqrhaC7pEiB"
+        }
+    ]
+}
